@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fareedb5000
 - 👀 I’m interested in game, website and app development
-- 🌱 I’m currently learning JavaScript and c#
+- 🌱 I’m currently learning JavaScript and c++
 - 💞️ I’m looking to collaborate on any websit projects
 - 📫 How to reach me ... phone no: (+234) 9041624040 Email: Fareedb5000@gmail.com
 
